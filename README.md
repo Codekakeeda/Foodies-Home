@@ -1,7 +1,7 @@
 # Foodies Home
 Foodies Home is a full-stack website for ordering food, built using the MERN stack (MongoDB, Express, React, Node.js) and integrating Google authentication. The website allows users to sign up using their Google accounts, browse the menu, and order food from local restaurants.
 
-#Features
+## Features
 Google authentication: Users can sign up and log in to Foodies Home using their Google accounts, making it easy and secure to access the website.
 Menu browsing: Users can browse the menu of local restaurants and filter it by category or search for specific dishes.
 Ordering food: Users can add items to their cart, specify any special instructions or dietary requirements, and check out with a secure payment gateway.
